@@ -4,7 +4,7 @@
 
 * Must use at least two server-side APIs
 
-* Must use a CSS framework _other than_ Bootstrap
+* Must use a CSS framework such as Bootstrap or SemanticUI
 
 * Must be interactive (i.e: accept and respond to user input)
 
